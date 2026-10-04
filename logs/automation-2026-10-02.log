@@ -1,0 +1,79 @@
+09:59:12.901 [main] INFO  testcases.TC_001AccountRegistrationtest - Providing customer Details
+09:59:14.530 [main] INFO  testcases.TC_001AccountRegistrationtest - Doing validation
+09:59:18.790 [main] INFO  testcases.TC_002AccountlLoginTest - ****************Starting Tc002 LoginTest*****************
+09:59:20.725 [main] INFO  testcases.TC_002AccountlLoginTest - ****************finish Tc002 LoginTest*****************
+14:13:40.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+14:14:01.699 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+14:14:02.296 [main] INFO  testcases.TC_001AccountRegistrationtest - Click on Register
+14:14:04.090 [main] INFO  testcases.TC_001AccountRegistrationtest - Providing customer Details
+14:14:07.469 [main] INFO  testcases.TC_001AccountRegistrationtest - Doing validation
+14:14:13.097 [main] INFO  testcases.TC_002AccountlLoginTest - ****************Starting Tc002 LoginTest*****************
+14:14:15.617 [main] INFO  testcases.TC_002AccountlLoginTest - ****************finish Tc002 LoginTest*****************
+05:07:15.172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:07:15.802 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+05:07:15.802 [main] ERROR testcases.TC_001AccountRegistrationtest - Test failed.....
+05:10:21.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:10:22.629 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+05:10:22.630 [main] ERROR testcases.TC_001AccountRegistrationtest - Test failed.....
+05:14:23.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:14:23.950 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+05:14:23.951 [main] ERROR testcases.TC_001AccountRegistrationtest - Test failed.....
+05:16:34.130 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:18:49.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:20:54.370 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:20:54.931 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+05:20:54.931 [main] ERROR testcases.TC_001AccountRegistrationtest - Test failed.....
+05:21:51.625 [main] INFO  testcases.TC_002AccountlLoginTest - ****************Starting Tc002 LoginTest*****************
+05:21:52.732 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:44:21.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:46:26.794 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+05:46:39.724 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+05:46:40.095 [main] INFO  testcases.TC_001AccountRegistrationtest - Click on Register
+05:46:41.353 [main] INFO  testcases.TC_001AccountRegistrationtest - Providing customer Details
+05:46:43.801 [main] INFO  testcases.TC_001AccountRegistrationtest - Doing validation
+05:46:48.254 [main] INFO  testcases.TC_002AccountlLoginTest - ****************Starting Tc002 LoginTest*****************
+05:46:51.496 [main] INFO  testcases.TC_002AccountlLoginTest - ****************finish Tc002 LoginTest*****************
+05:58:54.214 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+06:07:02.589 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+06:11:21.049 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+06:24:56.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+06:25:08.590 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+06:25:08.866 [main] INFO  testcases.TC_001AccountRegistrationtest - Click on Register
+06:25:10.006 [main] INFO  testcases.TC_001AccountRegistrationtest - Providing customer Details
+06:25:11.812 [main] INFO  testcases.TC_001AccountRegistrationtest - Doing validation
+06:25:15.160 [main] INFO  testcases.TC_002AccountlLoginTest - ****************Starting Tc002 LoginTest*****************
+06:25:17.004 [main] INFO  testcases.TC_002AccountlLoginTest - ****************finish Tc002 LoginTest*****************
+03:38:24.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:41:51.534 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+

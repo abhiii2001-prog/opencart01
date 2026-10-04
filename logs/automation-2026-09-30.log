@@ -1,0 +1,67 @@
+03:37:05.177 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:39:47.301 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:42:41.390 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:42:49.509 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+03:42:49.655 [main] INFO  testcases.TC_001AccountRegistrationtest - Click on Register
+03:42:51.534 [main] INFO  testcases.TC_001AccountRegistrationtest - Providing customer Details
+03:42:53.145 [main] INFO  testcases.TC_001AccountRegistrationtest - Doing validation
+03:44:58.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:45:05.287 [main] INFO  testcases.TC_002AccountlLoginTest - ****************Starting Tc002 LoginTest*****************
+03:45:07.460 [main] INFO  testcases.TC_002AccountlLoginTest - ****************finish Tc002 LoginTest*****************
+03:47:10.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:50:41.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:50:51.557 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:50:54.758 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:50:54.775 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:51:26.231 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:51:26.239 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:51:57.706 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:51:57.709 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:52:02.152 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:52:10.922 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:52:13.326 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:52:13.334 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:52:28.519 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:52:44.241 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:52:44.247 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:53:15.260 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:53:15.268 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:53:45.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+03:53:46.371 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:53:57.203 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:54:00.928 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:54:00.940 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:54:31.919 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:54:31.938 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:55:03.141 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+03:55:03.151 [main] INFO  testcases.TC003loginDDt - ****************Starting Tc003 LoginTest*****************
+03:55:18.274 [main] INFO  testcases.TC003loginDDt - ****************Ending Tc002 LoginTest*****************
+09:56:42.981 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+09:57:54.678 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+09:58:06.419 [main] INFO  testcases.TC_002AccountlLoginTest - ****************Starting Tc002 LoginTest*****************
+09:58:09.241 [main] INFO  testcases.TC_002AccountlLoginTest - ****************finish Tc002 LoginTest*****************
+09:59:05.691 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DeLL\Desktop\selenium_project\master.xml
+
+09:59:11.267 [main] INFO  testcases.TC_001AccountRegistrationtest - click on my account link
+09:59:11.586 [main] INFO  testcases.TC_001AccountRegistrationtest - Click on Register
