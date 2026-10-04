@@ -4,14 +4,26 @@ This is my practice project for automating the OpenCart demo e-commerce site. I 
 
 ## What I used
 
-Java, Selenium WebDriver, TestNG, Maven, RestAssured, Jenkins, Docker and Git.
+Java, Selenium WebDriver, TestNG, Maven, Jenkins, Docker and Git.
 
 ## What's done so far
 
-- Registration
-- Login
+- Set up the Maven project with TestNG and a suite file (`master.xml`)
+- Built the framework using Page Object Model
+- Registration flow automated
+- Login flow automated
 - Negative test cases (invalid login, wrong registration details)
-- API tests using RestAssured
+- Data-driven tests using external test data
+- Explicit waits and assertions for stable tests
+- Utility classes for screenshots and reading test data
+- Automatic screenshot on test failure
+- Logs and reports generated after every run
+- Cross-browser testing on Chrome, Firefox and Edge
+- Parallel execution
+- Retry mechanism for flaky tests
+- Jenkins job set up for CI
+- Docker setup to run tests in a container
+- Code pushed to GitHub with a `.gitignore` for generated files
 
 ## Coming soon
 
